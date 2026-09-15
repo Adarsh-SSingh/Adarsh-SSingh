@@ -41,14 +41,14 @@
   <a href="https://github.com/Adarsh-SSingh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:adarshsingh748263@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adarshsingh748263@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/Adarsh--singh/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.kaggle.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <a href="https://x.com/adarshsingh___" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
@@ -70,7 +70,7 @@ class AdarshSingh:
         self.name = "Adarsh Singh"
         self.role = "AI/ML Enthusiast & Python Developer"
         self.education = "B.Tech CSE (Final Year) @ JECRC University, Jaipur"
-        self.location = "Jaipur, India 🇮🇳"
+        self.location = "Varanasi, India 🇮🇳"
         self.cgpa = 7.36
         self.interests = ["Artificial Intelligence", "Machine Learning",
                           "Computer Vision", "Web Development"]
@@ -88,7 +88,7 @@ me.say_hi()
 - 👯 **Open to Collaborate On:** Open Source AI/ML Projects & Research
 - 💬 **Ask Me About:** Python, AI, ML, Flask, Computer Vision, DSA
 - 🎯 **Mission:** Become a world-class AI Engineer & build technology that impacts millions
-- ⚡ **Fun Fact:** I debug code faster than I solve a Rubik's cube 🧩
+- ⚡ **Fun Fact:** Teaching machines to learn is easier than teaching my code to compile the first time 🤖
 
 <br clear="right"/>
 
