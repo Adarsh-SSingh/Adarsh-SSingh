@@ -64,21 +64,23 @@
 
 <img align="right" alt="AI Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-```typescript
-const adarsh: AdarshSingh = {
-    name:         "Adarsh Singh",
-    role:         "AI/ML Enthusiast & Python Developer",
-    education:    "B.Tech CSE (Final Year) @ JECRC University, Jaipur",
-    location:     "Jaipur, India 🇮🇳",
-    cgpa:         7.36,
-    languages:    ["Python", "C", "C++"],
-    interests:    ["Artificial Intelligence", "Machine Learning",
-                   "Computer Vision", "Web Development"],
-    currentFocus: "Building intelligent systems that solve real-world problems",
-    lifeMotto:    "Code. Learn. Build. Repeat. 🚀"
-};
+```python
+class AdarshSingh:
+    def __init__(self):
+        self.name = "Adarsh Singh"
+        self.role = "AI/ML Enthusiast & Python Developer"
+        self.education = "B.Tech CSE (Final Year) @ JECRC University, Jaipur"
+        self.location = "Jaipur, India 🇮🇳"
+        self.cgpa = 7.36
+        self.interests = ["Artificial Intelligence", "Machine Learning",
+                          "Computer Vision", "Web Development"]
+        self.current_focus = "Building intelligent systems that solve real problems"
 
-console.log("Thanks for visiting! Let's build something extraordinary.");
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
+
+me = AdarshSingh()
+me.say_hi()
 ```
 
 - 🔭 **Currently Building:** VICTOR — an AI Voice Assistant with real-world integrations
