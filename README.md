@@ -83,11 +83,12 @@ me = AdarshSingh()
 me.say_hi()
 ```
 
-- 🔭 **Currently Building:** VICTOR — an AI Voice Assistant with real-world integrations
-- 🌱 **Deep Diving Into:** Deep Learning, Neural Networks, Advanced Computer Vision
+- 🌱 **Currently Learning:** Machine Learning, Deep Learning & Computer Vision — building strong AI/ML fundamentals
+- 🎯 **Focus Areas:** Python · Data Science · ML Algorithms · Neural Networks
+- 🛠️ **Working On:** Sharpening my AI/ML skills through hands-on projects & Kaggle
 - 👯 **Open to Collaborate On:** Open Source AI/ML Projects & Research
-- 💬 **Ask Me About:** Python, AI, ML, Flask, Computer Vision, DSA
-- 🎯 **Mission:** Become a world-class AI Engineer & build technology that impacts millions
+- 💬 **Ask Me About:** Python, AI/ML, Flask, DSA, Computer Vision
+- 🚀 **Mission:** Become a world-class AI Engineer & build technology that impacts millions
 - ⚡ **Fun Fact:** Teaching machines to learn is easier than teaching my code to compile the first time 🤖
 
 <br clear="right"/>
